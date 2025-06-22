@@ -30,32 +30,14 @@ A console application that generates student report cards with grade calculation
 ```bash
 git clone https://github.com/your-username/student_grading_system.git
 cd student_grading_system
-cargo build
+cargo build ```
 
-How to Run
+## How to Run
 Execute the program with:
-
-bash
+```bash
 cargo run
 
 
-Example Usage
-Program output will look like:
-
-text
-=== Student Grade System ===
-Enter student name: John Doe
-Enter total marks: 285
-Enter number of subjects: 4
-
-Report Card:
------------------
-Name: John Doe
-Marks: 285
-Subjects: 4
-Average: 71.25%
-Grade: C
------------------
 PDF generated: report_card.pdf
 File Structure
 text
