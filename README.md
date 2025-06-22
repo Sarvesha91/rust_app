@@ -32,7 +32,7 @@ git clone https://github.com/your-username/student_grading_system.git
 cd student_grading_system
 cargo build
 
-### Running the Program
+
 ```bash
 cargo run
 
