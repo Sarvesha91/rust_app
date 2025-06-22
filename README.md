@@ -44,7 +44,7 @@ cargo run
 - Ensure the `printpdf` crate is added in `Cargo.toml` for PDF support.
 
 ## Report Card Sample PDF
-![Example Report Card](report_card_example.png)
+-![Example Report Card](report_card_example.png)
 
 ## Folder Structure
 ```text
