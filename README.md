@@ -25,21 +25,15 @@ A console application that generates student report cards with grade calculation
   
   # macOS (Homebrew)
   brew install freetype
-Installation
-bash
+
+### Installation
 git clone https://github.com/your-username/student_grading_system.git
 cd student_grading_system
 cargo build
-🏃‍♂️ Running the Program
+
+### Running the Program
 bash
 cargo run
-📋 Usage Example
-text
-=== Student Grade System ===
-Enter student name: Alice Johnson
-Enter total marks: 345
-Enter number of subjects: 4
-
 
 ✅ PDF report generated: 'report_card.pdf'
 Create another report? (y/n): n
