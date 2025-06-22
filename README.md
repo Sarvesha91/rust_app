@@ -27,12 +27,13 @@ A console application that generates student report cards with grade calculation
   brew install freetype
 
 ### Installation
+ ```bash
 git clone https://github.com/your-username/student_grading_system.git
 cd student_grading_system
 cargo build
 
 ### Running the Program
-bash
+```bash
 cargo run
 
 ✅ PDF report generated: 'report_card.pdf'
