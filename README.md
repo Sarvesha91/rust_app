@@ -40,20 +40,12 @@ Enter student name: Alice Johnson
 Enter total marks: 345
 Enter number of subjects: 4
 
-Report Card
-----------------------------
-Student Name: Alice Johnson
-Total Marks: 345
-Number of Subjects: 4
-Average: 86.25%
-Grade: B
-----------------------------
 
 ✅ PDF report generated: 'report_card.pdf'
 Create another report? (y/n): n
 📂 Sample PDF Output
-https://via.placeholder.com/400x600.png?text=Sample+Report+Card
-(Actual PDF will be generated in project directory)
+![Report Card Example](images/report_card.png)
+
 
 🛠️ Dependencies
 printpdf - PDF generation
@@ -66,18 +58,5 @@ src/
 ├── main.rs          # Core application logic
 Cargo.toml           # Dependency configuration
 report_card.pdf      # Generated output
-🤝 Contributing
-Fork the project
 
-Create your feature branch (git checkout -b feature/AmazingFeature)
 
-Commit your changes (git commit -m 'Add some amazing feature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
-
-Made with ❤️ and Rust | 🦀 Happy Coding!
